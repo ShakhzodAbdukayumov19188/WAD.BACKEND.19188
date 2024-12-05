@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WAD.BACKEND.19188", "WAD.BACKEND.19188\WAD.BACKEND.19188.csproj", "{DBB1A607-2263-4DE4-92C3-029A6E883AE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WAD.BACKEND.19188.DAL", "WAD.BACKEND.19188.DAL\WAD.BACKEND.19188.DAL.csproj", "{35DB2B59-14AC-48E4-91D0-B2B3B5F967EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBB1A607-2263-4DE4-92C3-029A6E883AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBB1A607-2263-4DE4-92C3-029A6E883AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBB1A607-2263-4DE4-92C3-029A6E883AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBB1A607-2263-4DE4-92C3-029A6E883AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35DB2B59-14AC-48E4-91D0-B2B3B5F967EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35DB2B59-14AC-48E4-91D0-B2B3B5F967EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35DB2B59-14AC-48E4-91D0-B2B3B5F967EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35DB2B59-14AC-48E4-91D0-B2B3B5F967EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D443B3A-4CB2-4AAA-9F1F-B13D9C3F7A8F}
+	EndGlobalSection
+EndGlobal
